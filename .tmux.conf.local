@@ -481,6 +481,8 @@ tmux_conf_uninstall_plugins_on_reload=true
 # "$@"
 # # /!\ do not remove the previous line
 # #     do not write below this line
+
+# Custom settings for me
 set -g mouse on
 set -g set-clipboard on
 set -g mode-keys vi
